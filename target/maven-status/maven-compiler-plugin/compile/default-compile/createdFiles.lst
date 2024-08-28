@@ -1,0 +1,5 @@
+com/sts/ejb_singleton/resources/JakartaEE8Resource.class
+com/sts/ejb_singleton/test/CounterServlet.class
+com/sts/ejb_singleton/test/CounterBean.class
+com/sts/ejb_singleton/JakartaRestConfiguration.class
+com/sts/ejb_singleton/test/CounterBeanLocal.class
